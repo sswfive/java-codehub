@@ -1,4 +1,4 @@
-package basic;/*
+package indoor_demo;/*
     基本数据类型：
         byte、short int long float double char boolean
 

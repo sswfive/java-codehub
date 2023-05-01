@@ -1,4 +1,4 @@
-package basic;
+package indoor_demo;
 
 import java.util.Scanner;
 

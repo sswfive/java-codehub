@@ -1,4 +1,4 @@
-package basic;
+package indoor_demo;
 
 public class ControlDemo {
     public static void main(String[] args){

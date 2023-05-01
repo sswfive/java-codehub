@@ -1,4 +1,4 @@
-package basic;
+package indoor_demo;
 
 /*
     java程序中最基本的组成单位是类。
